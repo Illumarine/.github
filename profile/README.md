@@ -1,6 +1,6 @@
 
 <div style="display:flex; flex-direction:column; align-items:center; gap:1rem;"> 
-  <h1><img src="./images/illumarine.svg" style="width:20rem;" alt="Illumarine"></h1>
+  <h1><img src="../images/illumarine.svg" style="width:20rem;" alt="Illumarine"></h1>
   <p>An Illumos-based operating system with the powers of Linux</p>
 </div>
 
