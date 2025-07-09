@@ -4,8 +4,8 @@
   <p>An Illumos-based operating system with the powers of Linux</p>
 </div>
 
-Illumarine is an ambitious, community-driven open-source operating system project that aims to meticulously combine the best features and strengths of both the Linux and Illumos operating system families.
+Illumarine is an ambitious, community-driven open-source operating system project that aims to bring desktop illumos into the commonperson's hand.
 
 ## Disclaimer
 
-While we primarily use technologies developed by [Ultramarine Linux](https://ultramarine-linux.org/), we are a community-based project that is not affiliated with Illumos, Fyra Labs, or any other organization.
+While we primarily use technologies inspired by [Ultramarine Linux](https://ultramarine-linux.org/), we are a community-based project that is not affiliated with Illumos, Fyra Labs, or any other organization.
